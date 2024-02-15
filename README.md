@@ -1,8 +1,10 @@
 A repo of the 
 
+you can get the demo of these animations through my twitter posts :)
+
 List of Web Animation Designs:
 ### 👾 3d perspective text
-check out the <a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BobEncryption.java">demo</a> here.
+check out the <a href="https://twitter.com/pranavbawg/status/1758094359260697025">demo</a> here.
 ### Mouse Image Gallery
 ### Mask Cursor Effect
 ### Split Vignette
