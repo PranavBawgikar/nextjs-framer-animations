@@ -16,3 +16,5 @@ List of Web Animation Designs:
 ### Image Pixel Loading
 ### Gradient Mouse Move
 ### Capsule Physics
+
+# How to Set Up Locally/Develop
