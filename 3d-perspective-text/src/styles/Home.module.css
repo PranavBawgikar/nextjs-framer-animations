@@ -32,7 +32,7 @@
 .textContainer .secondary{
   transform: rotateX(-90deg) translateY(3.5vw);
   transform-origin: bottom center;
-  position: absolute;
+  position: absolute; 
   top: 0;
   color: black;
   opacity: 0;
