@@ -6,7 +6,7 @@ List of Web Animation Designs:
 ### 👾 3d perspective text
 check out the <a href="https://twitter.com/pranavbawg/status/1758094359260697025">demo</a> here.
 ### 👾 Hover Image Gallery
-check out the <a href="https://twitter.com/pranavbawg/status/1758094359260697025">demo</a> here.
+check out the <a href="https://twitter.com/pranavbawg/status/1758384715273560469">demo</a> here.
 ### Mask Cursor Effect
 ### Split Vignette
 ### 3D Perspective Scroll
