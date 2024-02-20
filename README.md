@@ -10,7 +10,9 @@ check out the <a href="https://twitter.com/pranavbawg/status/1758384715273560469
 ### 👾 masking cursor effect
 check out the <a href="https://twitter.com/pranavbawg/status/1758894534787035623">demo</a> here.
 ### 👾 split vignette
-### cards parallax
+check out the <a href="https://twitter.com/pranavbawg/status/1759898393336479825">demo</a> here.
+### 👾 stacked cards parallax
+check out the <a href="https://twitter.com/pranavbawg/status/1759897441141129376">demo</a> here.
 ### parallax scroll
 ### zoom parallax
 ### text gooey
