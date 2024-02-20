@@ -9,17 +9,12 @@ check out the <a href="https://twitter.com/pranavbawg/status/1758094359260697025
 check out the <a href="https://twitter.com/pranavbawg/status/1758384715273560469">demo</a> here.
 ### 👾 masking cursor effect
 check out the <a href="https://twitter.com/pranavbawg/status/1758894534787035623">demo</a> here.
-### Split Vignette
-### 3D Perspective Scroll
-### 3D Float Effect
-### Cards Parallax
-### 3D Parallax Letter
-### Parallax Scroll
-### Zoom Parallax
-### Text Gooey
-### Horizontal Section Scroll
-### Image Pixel Loading
-### Gradient Mouse Move
-### Capsule Physics
+### 👾 split vignette
+check out the <a href="https://twitter.com/pranavbawg/status/1759898393336479825">demo</a> here.
+### 👾 stacked cards parallax
+check out the <a href="https://twitter.com/pranavbawg/status/1759897441141129376">demo</a> here.
+### parallax scroll
+### zoom parallax
+### text gooey
 
 # How to Set Up Locally/Develop
