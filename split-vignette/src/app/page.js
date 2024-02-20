@@ -20,7 +20,7 @@ const projects = [
     handle: "jaipur"
   },
   {
-    name: "Kerela",
+    name: "Kerala",
     handle: "kerela"
   }
 ]
@@ -28,7 +28,7 @@ const projects = [
 export default function Home() {
 
   useEffect(() => {
-    const lenis = new Lenis()
+    const lenis = new Lenis() // Lenis Scroll to add a smooth scroll to the page 
 
     function raf(time) {
       lenis.raf(time)
