@@ -13,7 +13,10 @@ check out the <a href="https://twitter.com/pranavbawg/status/1758894534787035623
 check out the <a href="https://twitter.com/pranavbawg/status/1759898393336479825">demo</a> here.
 ### 👾 stacked cards parallax
 check out the <a href="https://twitter.com/pranavbawg/status/1759897441141129376">demo</a> here.
-### parallax scroll
+### 👾 parallax scroll
+check out the here.
+
+https://github.com/PranavBawgikar/nextjs-framer-animations/assets/102728016/b91f71e3-74d1-4046-b784-c24f4de45c84
 ### zoom parallax
 ### text gooey
 
