@@ -1,3 +1,5 @@
+https://github.com/PranavBawgikar/nextjs-framer-animations/assets/102728016/269cd23b-d9c8-40eb-bed7-6679b5ddb414
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
