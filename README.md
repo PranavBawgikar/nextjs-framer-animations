@@ -12,9 +12,4 @@ List of Web Animation Designs:
 - <a href="https://github.com/PranavBawgikar/nextjs-framer-animations/tree/main/zoom-parallax">Zoom Parallax</a>
 - <a href="">Text Gooey</a>
 
-
-check out the <a href="https://twitter.com/pranavbawg/status/1758094359260697025">demo</a> here.
-check out the <a href="https://twitter.com/pranavbawg/status/1758384715273560469">demo</a> here.
-check out the <a href="https://twitter.com/pranavbawg/status/1758894534787035623">demo</a> here.
-
 # How to Set Up Locally/Develop
