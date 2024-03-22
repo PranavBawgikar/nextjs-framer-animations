@@ -7,6 +7,7 @@ a repo of the web animation designs:
 - <a href="https://github.com/PranavBawgikar/nextjs-framer-animations/tree/main/parallax-scroll">Parallax Scroll</a>
 - <a href="https://github.com/PranavBawgikar/nextjs-framer-animations/tree/main/zoom-parallax">Zoom Parallax</a>
 - <a href="">Text Gooey</a>
+- <a href="https://github.com/PranavBawgikar/nextjs-framer-animations/tree/main/not-your-typical-text-hover-effect">Not Your Typical Text Hover Effect</a>
 
 you can get the demo of these animations through my twitter posts :)
 # How to Set Up Locally/Develop
