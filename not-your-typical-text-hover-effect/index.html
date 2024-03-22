@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Not Your Typical Text Hover Effect</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <div class="hero-img">
+        <img src="./dune-1.jpg" alt="" />
+    </div>
+    <div class="container">
+        <div class="word">
+            <span>L</span>
+            <span>O</span>
+            <span>N</span>
+            <span>E</span>
+        </div>
+        <div class="word">
+            <span>S</span>
+            <span>T</span>
+            <span>A</span>
+            <span>R</span>
+        </div>
+        <div class="word">
+            <span>9</span>
+            <span>.</span>
+        </div>
+    </div>
+    <script>
+        const textContainers = document.querySelectorAll(".word")
+        const defaultScale = 1
+        const maxScale = 2
+        const neighborScale = 1.5
+
+        textContainers.forEach((textContainer) => {
+            const spans = textContainer.querySelectorAll("span")
+
+            textContainer.addEventListener("mousemove", (e) => {
+                const target = e.target
+                const index = Array.from(spans).indexOf(target)
+
+                spans.forEach((span, i) => {
+                    let scale = defaultScale
+
+                    if(i === index) {
+                        scale = maxScale
+                    } else if(i === index - 1 || i === index + 1) {
+                        scale = neighborScale
+                    }
+
+                    span.style.transform = `scaleY(${scale})`
+                })
+            })
+
+            textContainer.addEventListener("mouseleave", () => {
+                spans.forEach((span) => {
+                    span.style.transform = `scaleY(${defaultScale})`
+                })
+            })
+        })
+    </script>
+</body>
+</html>
